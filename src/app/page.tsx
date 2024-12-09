@@ -20,6 +20,13 @@ export default function Home() {
               </code>
             </Link>
           </li>
+          <li className="mb-2">
+            <Link href="/testing/card">
+              <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded-sm font-semibold text-sky-500 hover:underline">
+                testing/card
+              </code>
+            </Link>
+          </li>
         </ol>
       </main>
     </div>

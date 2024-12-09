@@ -3,7 +3,7 @@ export default function Buttons() {
     <div className="flex h-screen justify-center items-center">
       <div className="flex flex-col gap-4">
         <label className="block">
-          <span className="block text-sm font-medium text-gray-400 mb-1">
+          <span className="block text-sm font-medium text-gray-400 mb-1 ">
             Add your comment
           </span>
           <textarea className="field-sizing-content text-sm text-gray-200 bg-gray-800 border border-gray-600 rounded-md focus:ring focus:ring-blue-500 focus:outline-none resize-none px-2 w-[260px] py-1"></textarea>
